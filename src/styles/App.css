@@ -1,0 +1,28 @@
+body {
+    background-color: aliceblue;
+}
+
+#imgFromTenor {
+    position: absolute;
+    bottom: 0;
+}
+
+.community_btn {
+    position: relative;
+    border: none;
+    color: white;
+    background-color: rgb(158, 158, 158);
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 50%;
+    bottom: 10%;
+}
+
+#kells {
+    position: relative;
+    bottom: 50%;
+    font-size: 25pt;
+}

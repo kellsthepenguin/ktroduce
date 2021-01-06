@@ -1,0 +1,8 @@
+#navbar {
+    background-color: aquamarine;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    box-shadow: 5px 3px 5px #80808094;
+}

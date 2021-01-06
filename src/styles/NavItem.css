@@ -1,0 +1,17 @@
+li {
+	float: left;
+}
+
+li * {
+	display: block;
+	color: black;
+	background-color: aquamarine;
+	padding: 20px;
+	text-decoration: none;
+	text-align: center;
+	font-weight: bold;
+}
+
+li a:hover {
+	background-color: rgb(129, 241, 204);
+}	
